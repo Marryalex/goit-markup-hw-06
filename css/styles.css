@@ -598,7 +598,7 @@ body {
 }
 .footer-subscribe {
   display: block;
-  margin-left: 93px;
+  margin-left: auto;
 }
 .footer-social-wrapper {
   display: flex;
@@ -623,7 +623,7 @@ body {
   margin-left: 10px;
 }
 .footer-subscribe .button-primary{
-  padding: 13px 28px;
+  padding: 10px 28px;
   display: flex;
   align-items: center;
 }
